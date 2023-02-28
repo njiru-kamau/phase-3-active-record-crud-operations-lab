@@ -65,6 +65,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   activerecord (~> 6.1)
@@ -78,3 +79,10 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.2.23
+
+PLATFORMS
+  universal-darwin-20
+  x86_64-linux
+
+DEPENDENCIES
+  activerecord (~> 6.1)
